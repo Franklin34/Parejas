@@ -1,0 +1,10 @@
+C:\Users\frank\OneDrive\Escritorio\Parejas\Parejas\bin\Debug\Parejas.exe.config
+C:\Users\frank\OneDrive\Escritorio\Parejas\Parejas\bin\Debug\Parejas.exe
+C:\Users\frank\OneDrive\Escritorio\Parejas\Parejas\bin\Debug\Parejas.pdb
+C:\Users\frank\OneDrive\Escritorio\Parejas\Parejas\obj\Debug\Parejas.csproj.AssemblyReference.cache
+C:\Users\frank\OneDrive\Escritorio\Parejas\Parejas\obj\Debug\Parejas.Form1.resources
+C:\Users\frank\OneDrive\Escritorio\Parejas\Parejas\obj\Debug\Parejas.Properties.Resources.resources
+C:\Users\frank\OneDrive\Escritorio\Parejas\Parejas\obj\Debug\Parejas.csproj.GenerateResource.cache
+C:\Users\frank\OneDrive\Escritorio\Parejas\Parejas\obj\Debug\Parejas.csproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\Escritorio\Parejas\Parejas\obj\Debug\Parejas.exe
+C:\Users\frank\OneDrive\Escritorio\Parejas\Parejas\obj\Debug\Parejas.pdb
